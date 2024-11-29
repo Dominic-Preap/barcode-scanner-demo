@@ -209,6 +209,13 @@
   resolved "https://registry.yarnpkg.com/@pkgjs/parseargs/-/parseargs-0.11.0.tgz#a77ea742fab25775145434eb1d2328cf5013ac33"
   integrity sha512-+1VkjdD0QBLPodGrJUeqarH8VAIvQODIbwh9XpP5Syisf7YoQgsJKPNFoqqLQlu+VQ/tVSshMR6loPMn8U+dPg==
 
+"@preflower/barcode-detector-polyfill@0.9.21":
+  version "0.9.21"
+  resolved "https://registry.yarnpkg.com/@preflower/barcode-detector-polyfill/-/barcode-detector-polyfill-0.9.21.tgz#cde130336a27542f7be6d5697a30f36eaa5a9f99"
+  integrity sha512-vjYTyQLGohm9McxWMLbRSb53LXs6IzcBh+ag5BdIaxs57P9hsy40ltuuCyWi2Sm/MUAC37sCloAzEvjrqt7YnA==
+  dependencies:
+    "@undecaf/zbar-wasm" "^0.11.0"
+
 "@preflower/barcode-detector-polyfill@^0.9.20":
   version "0.9.20"
   resolved "https://registry.yarnpkg.com/@preflower/barcode-detector-polyfill/-/barcode-detector-polyfill-0.9.20.tgz#cd617b5c3cefeade6cc00237241f006a4c58be21"
@@ -453,6 +460,11 @@
   version "0.10.1"
   resolved "https://registry.yarnpkg.com/@undecaf/zbar-wasm/-/zbar-wasm-0.10.1.tgz#3658b7bd8692a0610026a4ba9073fbed6c075d12"
   integrity sha512-nQGPCHO/4383oMurHp4smoxG3ZYgNX6K+MxdID8D5Rs5yzUzQKkClQeYEH7jST9OacGb18Ohmwl5IrHZfwdn+w==
+
+"@undecaf/zbar-wasm@^0.11.0":
+  version "0.11.0"
+  resolved "https://registry.yarnpkg.com/@undecaf/zbar-wasm/-/zbar-wasm-0.11.0.tgz#dd78278388e45f13a26ce05347fcb7571a14f3e1"
+  integrity sha512-z2UZ+Uc50+qyE+HbU+Obdk/E5ecB7xYiu0i99bHQ9VlZVH0JMmE/5mJQa16Cutvwt80C9OZl8jEVayf5s5Azow==
 
 acorn-jsx@^5.3.2:
   version "5.3.2"

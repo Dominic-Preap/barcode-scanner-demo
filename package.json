@@ -12,6 +12,7 @@
   "dependencies": {
     "@headlessui/react": "1.7.17",
     "@heroicons/react": "2.0.18",
+    "@preflower/barcode-detector-polyfill": "0.9.21",
     "@radix-ui/react-slot": "1.0.2",
     "class-variance-authority": "0.6.1",
     "clsx": "1.2.1",
